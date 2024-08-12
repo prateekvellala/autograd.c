@@ -1,2 +1,2 @@
 # autograd.c
-A tiny scalar-valued autograd engine in C
+A mini scalar-valued autograd engine in C.
